@@ -1,0 +1,22 @@
+.realisation {
+  width: 100%;
+  padding: 15px;
+  box-shadow: 0 5px 8px var(--text-light);
+}
+
+.realisation picture img {
+  height: auto;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 600px) {
+  .realisation {
+    max-width: 40vw;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .realisation {
+    max-width: 30%;
+  }
+}

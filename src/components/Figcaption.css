@@ -1,0 +1,63 @@
+.figcaption {
+  position: relative;
+}
+
+.figcaption-expended {
+  position: absolute;
+  top: 0;
+  left: -15px;
+  z-index: 10;
+  width: calc(100% + 30px);
+  padding: 15px;
+  background-color: #fff;
+  box-shadow: 0 15px 8px var(--text-light);
+}
+
+.figcaption .read-more {
+  display: inline-block;
+  margin-left: 5px;
+  color: var(--primary);
+  cursor: default;
+}
+
+.figcaption .read-more:hover {
+  text-shadow: #000 0 0 10px;
+}
+
+.figcaption .read-less {
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.figcaption .read-less::after {
+  display: inline-block;
+  content: '';
+  border-color: transparent transparent var(--primary) transparent;
+  border-style: solid;
+  border-width: 0 50px 10px;
+}
+
+.figcaption .read-less:hover::after {
+  border-color: transparent transparent rgba(var(--primary-rgb), 0.7) transparent;
+}
+
+.figcaption-techno {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 10px;
+  gap: 10px;
+}
+
+.figcaption-techno .techno {
+  display: inline-block;
+  padding-right: 8px;
+  padding-left: 8px;
+  font-size: 0.8rem;
+  color: var(--text-white);
+  background-color: var(--primary);
+  border-radius: 16px;
+}

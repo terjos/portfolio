@@ -1,0 +1,33 @@
+.zoom-box {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 80;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.85);
+}
+
+.zoom-box > div {
+  z-index: 90;
+  display: block;
+  width: auto;
+}
+
+.zoom-box .close {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  z-index: 99;
+  font-size: 30px;
+  color: var(--primary);
+  cursor: pointer;
+}
+
+.zoom-box .close:hover {
+  color: rgb(var(--primary-rgb), 0.8);
+  text-shadow: 0 0 30px #fff;
+}

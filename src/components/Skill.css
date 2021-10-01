@@ -1,0 +1,33 @@
+.skill {
+  --skill-end: 60%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 90%;
+  height: 30px;
+  margin-bottom: 10px;
+}
+
+.skill-activity {
+  flex-grow: 2;
+  height: 23px;
+  background-color: rgba(var(--primary-rgb), 0.4);
+}
+
+.skill-level {
+  width: 10px;
+  padding-left: 5px;
+  font-size: 14px;
+  line-height: 23px;
+  color: var(--text-white);
+  background-color: var(--primary);
+}
+
+@keyframes Animate-skill {
+  from {
+    width: 10px;
+  }
+  to {
+    width: var(--skill-end);
+  }
+}

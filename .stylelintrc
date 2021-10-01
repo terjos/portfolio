@@ -1,0 +1,7 @@
+{
+  "extends": "stylelint-config-twbs-bootstrap/css",
+  "rules": {
+    "string-quotes": 'single',
+    "number-leading-zero": 'always'
+  }
+}
