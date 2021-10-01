@@ -11,7 +11,7 @@ function Realisation({ children, techno, img, ext, w, h }) {
   if (ext === '.gif') {
     const gifSmall = require(`../images/tmp/${img}_400.gif`).default
     const gifLarge = require(`../images/tmp/${img}_800.gif`).default
-    imgZoomed = <img src={`${img}`} alt={img} srcSet={`${gifSmall} 400w, ${gifLarge} 800w`} w={w} h={h} />
+    imgZoomed = <picture className="gif"><img src={`${img}`} alt={img} srcSet={`${gifSmall} 400w, ${gifLarge} 800w`} w={w} h={h} /></picture>
   } else {
     imgZoomed = <Img name={img} alt={img} w={w} h={h}></Img>
   }
