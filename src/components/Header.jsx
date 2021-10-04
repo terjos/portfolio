@@ -1,6 +1,7 @@
 import './Header.css';
 import { ReactComponent as IconImail } from '../images/icon-email.svg';
 import { useEffect } from 'react';
+import cv from '../media/mon_CV_web.pdf'
 
 let prevScrollpos = window.pageYOffset
 
@@ -38,7 +39,7 @@ function Header() {
         <div className="header-logo">J</div>
         <div>
           <div className="header-title">Développeur web</div>
-          <div className="header-name"><strong>Josselin</strong> Terrien</div>
+          <div className="header-name"><strong>Josselin</strong> Terrien <a href={cv} download="CV_Josselin_terrien.pdf">nom CV</a></div>
         </div>
         <div className="header-contact">
           <a href="#contact" ><IconImail />Contact
