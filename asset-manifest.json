@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.78e8fdb0.chunk.css",
+    "main.css": "/portfolio/static/css/main.8e41f749.chunk.css",
     "main.js": "/portfolio/static/js/main.71135609.chunk.js",
     "main.js.map": "/portfolio/static/js/main.71135609.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
@@ -8,7 +8,7 @@
     "static/js/2.9f65e0df.chunk.js": "/portfolio/static/js/2.9f65e0df.chunk.js",
     "static/js/2.9f65e0df.chunk.js.map": "/portfolio/static/js/2.9f65e0df.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "static/css/main.78e8fdb0.chunk.css.map": "/portfolio/static/css/main.78e8fdb0.chunk.css.map",
+    "static/css/main.8e41f749.chunk.css.map": "/portfolio/static/css/main.8e41f749.chunk.css.map",
     "static/js/2.9f65e0df.chunk.js.LICENSE.txt": "/portfolio/static/js/2.9f65e0df.chunk.js.LICENSE.txt",
     "static/media/brault_400.jpg": "/portfolio/static/media/brault_400.09d61dd2.jpg",
     "static/media/brault_400.webp": "/portfolio/static/media/brault_400.b1f34124.webp",
@@ -50,7 +50,7 @@
   "entrypoints": [
     "static/js/runtime-main.37da8305.js",
     "static/js/2.9f65e0df.chunk.js",
-    "static/css/main.78e8fdb0.chunk.css",
+    "static/css/main.8e41f749.chunk.css",
     "static/js/main.71135609.chunk.js"
   ]
 }
