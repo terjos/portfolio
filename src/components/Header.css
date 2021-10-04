@@ -74,12 +74,14 @@
 
 .header-contact > a {
   display: flex;
+  align-items: center;
   float: right;
   gap: 10px;
 }
 
 .header-contact > a svg {
   width: 16px;
+  height: 16px;
   fill: var(--text-light);
 }
 
