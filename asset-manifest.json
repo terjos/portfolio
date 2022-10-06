@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5b11ab89.chunk.css",
-    "main.js": "/portfolio/static/js/main.4aa595cd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.4aa595cd.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.7b3f8089.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7b3f8089.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
     "static/js/2.9f65e0df.chunk.js": "/portfolio/static/js/2.9f65e0df.chunk.js",
@@ -18,12 +18,12 @@
     "static/media/charles-cantin_400.jpg": "/portfolio/static/media/charles-cantin_400.cda4f61b.jpg",
     "static/media/charles-cantin_800.jpg": "/portfolio/static/media/charles-cantin_800.5da8ffec.jpg",
     "static/media/charles-cantin_800.webp": "/portfolio/static/media/charles-cantin_800.9483ced6.webp",
-    "static/media/cutting-list_400.webp": "/portfolio/static/media/cutting-list_400.20797d83.webp",
-    "static/media/cutting-list_400.jpg": "/portfolio/static/media/cutting-list_400.584e22b7.jpg",
-    "static/media/cutting-list_400.gif": "/portfolio/static/media/cutting-list_400.6502a7bd.gif",
-    "static/media/cutting-list_800.webp": "/portfolio/static/media/cutting-list_800.0927e388.webp",
-    "static/media/cutting-list_800.jpg": "/portfolio/static/media/cutting-list_800.344a354a.jpg",
-    "static/media/cutting-list_800.gif": "/portfolio/static/media/cutting-list_800.a0f28714.gif",
+    "static/media/cutting-list_400.webp": "/portfolio/static/media/cutting-list_400.11cafbe2.webp",
+    "static/media/cutting-list_400.gif": "/portfolio/static/media/cutting-list_400.a64567d3.gif",
+    "static/media/cutting-list_400.jpg": "/portfolio/static/media/cutting-list_400.cd41a4da.jpg",
+    "static/media/cutting-list_800.webp": "/portfolio/static/media/cutting-list_800.09b996f6.webp",
+    "static/media/cutting-list_800.gif": "/portfolio/static/media/cutting-list_800.a4c3a997.gif",
+    "static/media/cutting-list_800.jpg": "/portfolio/static/media/cutting-list_800.e2db30b4.jpg",
     "static/media/demontrebellis_400.webp": "/portfolio/static/media/demontrebellis_400.a9b5992d.webp",
     "static/media/demontrebellis_400.jpg": "/portfolio/static/media/demontrebellis_400.b15ba852.jpg",
     "static/media/demontrebellis_800.jpg": "/portfolio/static/media/demontrebellis_800.7e4bcce6.jpg",
@@ -64,6 +64,6 @@
     "static/js/runtime-main.37da8305.js",
     "static/js/2.9f65e0df.chunk.js",
     "static/css/main.5b11ab89.chunk.css",
-    "static/js/main.4aa595cd.chunk.js"
+    "static/js/main.7b3f8089.chunk.js"
   ]
 }
